@@ -1,0 +1,31 @@
+.imgVerificacion{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+}
+.title_verificacion{
+    font-size: 22px;
+    font-weight: bolder;
+    margin-left: 8rem;
+    margin-bottom: 2rem;
+}
+.txt_verificacion{
+    display: flex;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 4rem;
+}
+.input_login{
+    display: flex;
+    flex-direction: row;
+    margin-left: 8rem;
+    margin-top: 2rem;
+}
+.input_ver1{
+    width: 12%;
+    height: 8vw;
+}
+.verificacion__btn{
+    width: 2.5rem;
+    height: 2.2rem;
+}

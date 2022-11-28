@@ -1,0 +1,70 @@
+.top_restPage{
+    margin-top: 2rem;
+    display: flex;
+    gap: 5rem;
+}
+.flecha_atras{
+    height: 2rem;
+    margin-left: 15px;
+}
+.info_restaurant1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+.details_restaurant1{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+.main_restaurant1{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.title_restaurant1{
+    margin-bottom: 8px;
+}
+.Img_restaurant1{
+    margin-left: 10px;
+}
+.btn_filtrosMenu{
+    display: flex;
+    gap: 2rem;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    
+}
+.btn_filtrosMenu button{
+    display: flex;
+    width: 106px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+}
+
+.restaurant1_menu{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    gap: 20px;
+
+}
+.menu4_restaurant1{
+    width: 150px;
+    height: 110px;
+    border-radius: 10px;
+}
+.menu5_restaurant1{
+    width: 150px;
+    height: 110px;
+    border-radius: 10px;
+}
+.menu6_restaurant1{
+    width: 150px;
+    height: 110px;
+    border-radius: 10px;
+}

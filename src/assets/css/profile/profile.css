@@ -1,0 +1,102 @@
+.profile{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.profile__container{
+  height: 100%;
+  overflow-y: auto;
+}
+
+.profile__container--img{
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: .4rem;
+  font-size: 14px;
+}
+.profile__container--img .img{
+  width: 4rem;
+  height: 4rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 100%;
+}
+.info_profile{
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  height: 50px;
+  background-color: rgba(242, 242, 242, 1);
+  align-items: center;
+  gap: 10px;
+  margin-left: 2.5rem;
+  padding-left: 10px;
+  border-radius: 15px;
+}
+.img_usuario{
+  height: 20px;
+}
+.flecha_derecha{
+  height: 20px;
+  margin-left: 150px;
+}
+.btn_logout{
+  display: flex;
+  border: none;
+  background-color: rgba(255, 224, 49, 1);
+  width: 80%;
+  height: 30px;
+  margin-left: 2.5rem;
+  padding-left: 10px;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* PROFILE EDIT */
+.title_profileEdit{
+  display: flex;
+  flex-direction: row;
+  margin: 1.5rem;
+  gap: 8rem;
+  align-items: center;
+}
+.flecha_atras1{
+  height: 25px;
+}
+.lapiz_editar{
+  height: 20px;
+  position: absolute;
+  right: 50px;
+}
+.info_profileEdit{
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  height: 8vh;
+  align-items: center;
+  border-radius: 15px;
+  background-color: #E5E5E5;
+  margin-left: 2.5rem;
+  padding-left: 2rem;
+  margin-top: 1.5rem;
+}
+.btn_save{
+  width: 80%;
+  height: 10vh;
+  border: none;
+  border-radius: 15px;
+  margin-top: 9rem;
+  margin-left: 2.5rem;
+  font-weight: bold;
+  background-color: #FFE031;
+
+}

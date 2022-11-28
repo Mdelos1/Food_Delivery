@@ -1,0 +1,11 @@
+.txt_direccion{
+    font-size: 22px;
+    display: flex;
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+}
+.imgDireccion{
+    margin-left: 1.5rem;
+}

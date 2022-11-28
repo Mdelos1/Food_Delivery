@@ -1,0 +1,32 @@
+.orderHistory{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  overflow-y: auto;
+}
+.orderHistory__container{
+  height: 10%;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 2.5rem;
+
+}
+.title_recentOrders{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  font-weight: bold;
+  
+}
+.flecha_derecha2{
+  height: 20px;
+  margin-left: 90px;
+}
+.img_restaurantRecent{
+  height: 50px;
+}
+

@@ -1,0 +1,41 @@
+.input_cuenta{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    margin-left: 26px;
+    gap: 10px;
+}
+.title_cuenta{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 7rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+}
+
+
+.info_register{
+    display: flex;
+    
+}
+.info_inputSeleccionar{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.btn_register{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    width: 250px;
+    height: 50px;
+    border: none;
+    background-color: rgba(255, 224, 49, 1);
+    border-radius: 15px;
+}
+.inicio_info{
+    margin-left: 7rem;
+}
+
+.details_register{
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+}

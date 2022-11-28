@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,300&display=swap');
+
+/* Loader */
+@import url('./loaderCSS/loader.css');
+
+/* Autentication */
+@import url('./autenticaciónCSS/LoginPagina.css');
+@import url('./autenticaciónCSS/SingIn.css');
+@import url('./autenticaciónCSS/Verificacion.css');
+@import url('./autenticaciónCSS/CrearCuenta.css');
+@import url('./autenticaciónCSS/Direccion.css');
+@import url('./autenticaciónCSS/Marcador.css');
+@import url('./slices/Slice.css');
+@import url('./home/Home.css');
+@import url('./home/restaurantPage.css');
+@import url('./home/productPage.css');
+@import url('./search/search.css');
+@import url('./profile/profile.css');
+@import url('./orderHistory/orderHistory.css');
+@import url('./orderList/orderList.css');
+@import url('./orderList/orderFinaly.css');
+@import url('./footer/footer.css');
+@import url('./admin/homeAdmin.css');
+@import url('./admin/userAdmin.css');
+@import url('./admin/deleteRestaurant.css');
+/* @import url('./autenticaciónCSS/Slice1.css');
+@import url('./autenticaciónCSS/Slice2.css');
+@import url('./autenticaciónCSS/Slice3.css');
+@import url('./autenticaciónCSS/Home.css');
+@import url('./autenticaciónCSS/search.css');
+@import url('./autenticaciónCSS/RestaurantPage.css'); */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
